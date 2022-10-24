@@ -1,10 +1,3 @@
-############################
-#Computer Science Coursework
-#Emmanuel Learmount
-#19/11/2018
-#FINAL COPY
-############################
-
 #Imports
 import matplotlib
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
@@ -762,7 +755,7 @@ class StartPage(tk.Frame):
         bitcoin_label.image = bitcoin_img
         bitcoin_label.place(x=440,y=50)
 
-        eula = ttk.Label(self, text="*Agreement is confirmation that you have read and acknowledged the terms and conditions. Disagreeing will terminate the program.", font=NORMAL_FONT, wraplength='450')
+        eula = ttk.Label(self, text="*Agreement is confirmation that you have read and acknowledged the information above. Disagreeing will terminate the program.", font=NORMAL_FONT, wraplength='450')
         eula.place(x=15,y=600)    
         
 class BTC_Page(tk.Frame):
