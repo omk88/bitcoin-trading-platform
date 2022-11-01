@@ -21,10 +21,15 @@ This program was made as a personal project in 2018. Since then my programming s
 ## Built With:
 
 • Python 3.9
+
 • Matplotlib
+
 • Pandas
+
 • Numpy
+
 • Tkinter
+
 • PIL
 
 ## Prerequisites:
