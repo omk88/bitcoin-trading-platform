@@ -4,7 +4,7 @@ This program was made as a personal project in 2018. Since then my programming s
 
 ## Features:
 
-• Allows the user to view realtime Bitcoin price and volume data, pulled from an API.
+• Allows the user to view realtime Bitcoin price and volume data, pulled from an **API**.
 
 • Can open new positions and will calculate profit/loss.
 
@@ -12,7 +12,7 @@ This program was made as a personal project in 2018. Since then my programming s
 
 • Can save graphs to either a default folder or one that the user selects.
 
-• Exporting data in Excel, CSV and text file formats is supported.
+• Exporting data in **Excel**, **CSV** and **text** file formats is supported.
 
 • Allows user to pause and resume the client.
 
