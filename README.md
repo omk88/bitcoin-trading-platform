@@ -1,4 +1,6 @@
-# Bitcoin Trading Platform       ![bitcoin](https://user-images.githubusercontent.com/46501575/199346769-38cb1099-9f8f-4488-aac8-a91a9f68296d.png)
+# Bitcoin Trading Platform
+![bitcoin](https://user-images.githubusercontent.com/46501575/199347254-046291e3-0af2-4e71-8977-269785e73461.png)
+
 
 
 This program was made as a personal project in 2018. Since then my programming skills have improved and there are plenty of things I would have done differently, had I made it today. It was created as a mock Bitcoin trading platform to help teach users learn about crypto investing.
