@@ -18,6 +18,20 @@ This program was made as a personal project in 2018. Since then my programming s
 
 • Allows user to change between a light and dark theme, and also change the plot colour for the line graph.
 
+## Built With:
+
+• Python 3.9
+• Matplotlib
+• Pandas
+• Numpy
+• Tkinter
+• PIL
+
+## Prerequisites:
+
+• Matplotlib
+> pip install matplotlib
+
 ## Screenshots:
 
 ###### EULA Page
