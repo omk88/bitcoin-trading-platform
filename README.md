@@ -35,7 +35,9 @@ This program was made as a personal project in 2018. Since then my programming s
 ## Prerequisites:
 
 • Matplotlib
-> pip install matplotlib
+```
+pip install matplotlib
+```
 
 ## Screenshots:
 
