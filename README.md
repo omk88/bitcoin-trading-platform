@@ -21,7 +21,23 @@ This program was made as a personal project in 2018. Since then my programming s
 ## Screenshots:
 
 ###### EULA Page
+
 ![btc1](https://user-images.githubusercontent.com/46501575/199218875-1043aafd-57ea-4f1f-90e3-55e60d9e1503.PNG)
 
 ###### USD Chart
+
 ![btc2](https://user-images.githubusercontent.com/46501575/199218899-65e6dd10-157c-468f-ace0-6b45bb1a41e2.PNG)
+
+###### GBP Chart
+
+![btc3](https://user-images.githubusercontent.com/46501575/199221503-8703cedf-e709-49e9-88b0-e7bbdf2b3911.PNG)
+
+###### CAD Chart
+
+![btc4](https://user-images.githubusercontent.com/46501575/199221699-2cdca79b-cb31-44e8-aff4-541e7a3aef57.PNG)
+
+###### AUD Chart
+
+![btc5](https://user-images.githubusercontent.com/46501575/199222130-0e1c98d3-f88c-415e-b912-cc59a0c32a40.PNG)
+
+
