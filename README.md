@@ -1,4 +1,4 @@
-# bitcoin-trading-platform
+# Bitcoin Trading Platform
 
 This program was made as a personal project in 2018. Since then my programming skills have improved and there are plenty of things I would have done differently, had I made it today. It was created as a mock Bitcoin trading platform to help teach users learn about crypto investing.
 
@@ -39,5 +39,22 @@ This program was made as a personal project in 2018. Since then my programming s
 ###### AUD Chart
 
 ![btc5](https://user-images.githubusercontent.com/46501575/199222130-0e1c98d3-f88c-415e-b912-cc59a0c32a40.PNG)
+
+###### Changing Theme of Chart
+
+![btc6](https://user-images.githubusercontent.com/46501575/199222427-76e7c3e5-b0c1-4efe-b7cd-b47845b1d869.PNG)
+
+###### Dark Mode, Red Plot Colour
+
+![btc7](https://user-images.githubusercontent.com/46501575/199222623-b01b8bfd-5166-482f-bcfb-418898d7c881.PNG)
+
+###### Dark Mode, Green Plot Colour
+
+![btc8](https://user-images.githubusercontent.com/46501575/199222817-e1d552cc-065d-472e-b8a8-3e150780ffd3.PNG)
+
+###### Options for Exporting Current Price Data
+
+![btc9](https://user-images.githubusercontent.com/46501575/199222898-32bc7f0a-bfb8-4c31-a63d-20e5c4bd155b.png)
+
 
 
