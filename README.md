@@ -52,7 +52,7 @@ This program was made as a personal project in 2018. Since then my programming s
 
 ![btc8](https://user-images.githubusercontent.com/46501575/199222817-e1d552cc-065d-472e-b8a8-3e150780ffd3.PNG)
 
-###### Options for Exporting Current Price Data
+###### Options for Exporting Current Price Data/Saving Price Data as an Image
 
 ![btc9](https://user-images.githubusercontent.com/46501575/199222898-32bc7f0a-bfb8-4c31-a63d-20e5c4bd155b.png)
 
