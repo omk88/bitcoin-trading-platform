@@ -39,6 +39,16 @@ This program was made as a personal project in 2018. Since then my programming s
 pip install matplotlib
 ```
 
+• Pandas
+```
+pip install pandas
+```
+
+• Numpy
+```
+pip install numpy
+```
+
 ## Screenshots:
 
 ###### EULA Page
