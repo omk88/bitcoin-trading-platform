@@ -1,6 +1,6 @@
 # Bitcoin Trading Platform
 
-<p align="center">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/46501575/199348108-aa294e07-fba7-4032-9710-36019e14ce53.png" />
 </p>
 
