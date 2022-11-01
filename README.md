@@ -56,5 +56,20 @@ This program was made as a personal project in 2018. Since then my programming s
 
 ![btc9](https://user-images.githubusercontent.com/46501575/199222898-32bc7f0a-bfb8-4c31-a63d-20e5c4bd155b.png)
 
+###### Exported Data and Saved Graphs
+
+![btc13](https://user-images.githubusercontent.com/46501575/199224210-e301da6e-42e2-4f2f-b98f-3333c425520f.PNG)
+
+![btc10](https://user-images.githubusercontent.com/46501575/199224229-0e75c4c9-1005-4701-9170-8e91253b9ead.PNG)
+
+![btc14](https://user-images.githubusercontent.com/46501575/199224354-2b92c023-96bc-4b86-8f3e-e0f175fd32aa.PNG)
+
+###### Buying BTC
+
+![btc11](https://user-images.githubusercontent.com/46501575/199224460-88f23850-64e9-4122-b54d-54edf57d8ded.PNG)
+
+###### Viewing Current Positions
+
+![btc12](https://user-images.githubusercontent.com/46501575/199224499-43b555ac-b5e3-4e06-97ae-f35495170e0d.PNG)
 
 
