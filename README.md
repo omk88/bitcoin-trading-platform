@@ -1,5 +1,4 @@
-# Bitcoin Trading Platform
-![bitcoin](https://user-images.githubusercontent.com/46501575/199347254-046291e3-0af2-4e71-8977-269785e73461.png)
+# Bitcoin Trading Platform ![bitcoin](https://user-images.githubusercontent.com/46501575/199347254-046291e3-0af2-4e71-8977-269785e73461.png)
 
 
 
