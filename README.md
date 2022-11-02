@@ -106,6 +106,3 @@ pip install numpy
 ###### No Connection
 
 ![btc15](https://user-images.githubusercontent.com/46501575/199346073-72642649-798f-4713-a8be-3582ea7915d8.PNG)
-
-
-
